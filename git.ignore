@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data downloaded at runtime
+adult.data
+adult.test
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
